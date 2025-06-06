@@ -25,4 +25,4 @@ npm start
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [HTML5 Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
 ## Demo
-(Insert Loom/video link here)
+(https://www.loom.com/share/d11a72956350426dbb3fa58119829bdf?sid=b4382966-7de6-4d9b-b3aa-8d8282c7898a)
